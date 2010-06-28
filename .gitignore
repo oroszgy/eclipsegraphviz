@@ -1,0 +1,10 @@
+*.beam
+*.class
+workspaces
+bin
+*.orig
+hs_err*.log
+safe_erlide.log
+.metadata
+.escabaseline
+
