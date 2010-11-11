@@ -2,7 +2,7 @@
 <feature
       id="com.abstratt.eclipsegraphviz"
       label="%featureName"
-      version="1.1.5.qualifier"
+      version="1.1.6.qualifier"
       provider-name="%providerName">
 
    <description>
@@ -46,21 +46,7 @@
          unpack="false"/>
 
    <plugin
-         id="com.abstratt.modelviewer"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="com.abstratt.pluginutils"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.abstratt.modelrenderer"
          download-size="0"
          install-size="0"
          version="0.0.0"

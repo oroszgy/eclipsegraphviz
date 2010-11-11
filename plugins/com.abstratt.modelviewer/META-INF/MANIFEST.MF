@@ -11,6 +11,6 @@ Require-Bundle: com.abstratt.imageviewer,
  org.eclipse.emf.ecore,
  com.abstratt.pluginutils,
  org.eclipse.equinox.common,
- com.abstratt.modelrenderer;visibility:=reexport
+ com.abstratt.modelrenderer;resolution:=optional;visibility:=reexport
 Export-Package: com.abstratt.modelviewer
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
