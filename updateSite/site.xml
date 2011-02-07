@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.abstratt.eclipsegraphviz_1.1.6.201011110932.jar" id="com.abstratt.eclipsegraphviz" version="1.1.6.201011110932">
+   <feature url="features/com.abstratt.eclipsegraphviz_1.1.6.201102071153.jar" id="com.abstratt.eclipsegraphviz" version="1.1.6.201102071153">
       <category name="stable"/>
    </feature>
    <category-def name="stable" label="Stable"/>
